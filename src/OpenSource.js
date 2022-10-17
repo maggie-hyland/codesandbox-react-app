@@ -6,7 +6,7 @@ export default function OpenSource() {
     <div className="col" id="open-source">
       Developed by Maggie Hyland. Open-sourced on
       <a
-        href="https://github.com/maggie-hyland/vanilla-weather-app"
+        href="https://github.com/maggie-hyland/codesandbox-react-app"
         id="github-link"
       >
         {" "}
