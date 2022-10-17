@@ -1,0 +1,9 @@
+.OpenSource #open-source {
+  padding-top: 10px;
+  color: rgb(133, 88, 255);
+  text-align: center;
+  font-size: 13px;
+}
+.OpenSource #github-link {
+  text-decoration: none;
+}
